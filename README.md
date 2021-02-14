@@ -8,7 +8,7 @@ Goes out to Crunchyroll, and fetches the short descriptions for an anime of your
 
 ## Use
 * `getShortDescriptions(anime)`  - Returns a list of short descriptions of the passed `anime`. The parameter `anime` should match the name of the respective anime as it appears on crunchyroll. 
-python```
+``` python
 from CrunchyParser import CrunchyParser   #Will start a selenium browser. Don't be spook'd
 
 #Define some Anime
